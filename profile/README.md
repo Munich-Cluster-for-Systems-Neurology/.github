@@ -19,3 +19,5 @@ The Munich Cluster for Systems Neurology (SyNergy) investigates how complex neur
 Using systems neurology as a new interdisciplinary approach, researchers can decipher the shared disease mechanisms of neurovascular, neurodegenerative, and neuroimmunological diseases and on this basis develop novel diagnostic and therapeutic approaches.
 
 SyNergy has been funded as an Excellence Cluster by the German Research Foundation (DFG) since 2012.
+
+This github page includes repos from SyNergy publications and publicly available pipelines available to all SyNergy researchers
